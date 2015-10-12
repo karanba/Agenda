@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/karanba/Agenda/issues"
   },
-  "homepage": "https://github.com/karanba/Agenda"
+  "homepage": "https://github.com/karanba/Agenda",
+  "devDependencies": {
+    "underscore": "^1.8.3"
+  }
 }
