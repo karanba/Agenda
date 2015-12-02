@@ -9,3 +9,12 @@ Developing a web application for self time-managment, with ability to manage all
 ## Team
 
 #### [Altay Karakuş](http://github.com/karanba) - Founder/Lead
+
+
+## Documentation
+
+### browserify 
+
+'''{r, engine='bash', count_lines}
+browserify -r ./nums.js:nums --debug | exorcist bundle.js.map > bundle.js
+'''
