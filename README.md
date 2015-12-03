@@ -15,6 +15,7 @@ Developing a web application for self time-managment, with ability to manage all
 
 ### browserify 
 
+
 '''
 browserify -r ./nums.js:nums --debug | exorcist bundle.js.map > bundle.js
 '''
